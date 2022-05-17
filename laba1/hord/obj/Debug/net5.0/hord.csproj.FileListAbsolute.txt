@@ -1,0 +1,16 @@
+D:\CHisMetLabs\laba1\hord\bin\Debug\net5.0\hord.exe
+D:\CHisMetLabs\laba1\hord\bin\Debug\net5.0\hord.deps.json
+D:\CHisMetLabs\laba1\hord\bin\Debug\net5.0\hord.runtimeconfig.json
+D:\CHisMetLabs\laba1\hord\bin\Debug\net5.0\hord.runtimeconfig.dev.json
+D:\CHisMetLabs\laba1\hord\bin\Debug\net5.0\hord.dll
+D:\CHisMetLabs\laba1\hord\bin\Debug\net5.0\ref\hord.dll
+D:\CHisMetLabs\laba1\hord\bin\Debug\net5.0\hord.pdb
+D:\CHisMetLabs\laba1\hord\obj\Debug\net5.0\hord.csproj.AssemblyReference.cache
+D:\CHisMetLabs\laba1\hord\obj\Debug\net5.0\hord.GeneratedMSBuildEditorConfig.editorconfig
+D:\CHisMetLabs\laba1\hord\obj\Debug\net5.0\hord.AssemblyInfoInputs.cache
+D:\CHisMetLabs\laba1\hord\obj\Debug\net5.0\hord.AssemblyInfo.cs
+D:\CHisMetLabs\laba1\hord\obj\Debug\net5.0\hord.csproj.CoreCompileInputs.cache
+D:\CHisMetLabs\laba1\hord\obj\Debug\net5.0\hord.dll
+D:\CHisMetLabs\laba1\hord\obj\Debug\net5.0\ref\hord.dll
+D:\CHisMetLabs\laba1\hord\obj\Debug\net5.0\hord.pdb
+D:\CHisMetLabs\laba1\hord\obj\Debug\net5.0\hord.genruntimeconfig.cache

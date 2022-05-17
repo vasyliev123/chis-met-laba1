@@ -1,0 +1,16 @@
+D:\CHisMetLabs\newton\newton\bin\Debug\net5.0\newton.exe
+D:\CHisMetLabs\newton\newton\bin\Debug\net5.0\newton.deps.json
+D:\CHisMetLabs\newton\newton\bin\Debug\net5.0\newton.runtimeconfig.json
+D:\CHisMetLabs\newton\newton\bin\Debug\net5.0\newton.runtimeconfig.dev.json
+D:\CHisMetLabs\newton\newton\bin\Debug\net5.0\newton.dll
+D:\CHisMetLabs\newton\newton\bin\Debug\net5.0\ref\newton.dll
+D:\CHisMetLabs\newton\newton\bin\Debug\net5.0\newton.pdb
+D:\CHisMetLabs\newton\newton\obj\Debug\net5.0\newton.csproj.AssemblyReference.cache
+D:\CHisMetLabs\newton\newton\obj\Debug\net5.0\newton.GeneratedMSBuildEditorConfig.editorconfig
+D:\CHisMetLabs\newton\newton\obj\Debug\net5.0\newton.AssemblyInfoInputs.cache
+D:\CHisMetLabs\newton\newton\obj\Debug\net5.0\newton.AssemblyInfo.cs
+D:\CHisMetLabs\newton\newton\obj\Debug\net5.0\newton.csproj.CoreCompileInputs.cache
+D:\CHisMetLabs\newton\newton\obj\Debug\net5.0\newton.dll
+D:\CHisMetLabs\newton\newton\obj\Debug\net5.0\ref\newton.dll
+D:\CHisMetLabs\newton\newton\obj\Debug\net5.0\newton.pdb
+D:\CHisMetLabs\newton\newton\obj\Debug\net5.0\newton.genruntimeconfig.cache

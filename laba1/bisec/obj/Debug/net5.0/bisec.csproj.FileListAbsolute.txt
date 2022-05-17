@@ -1,0 +1,16 @@
+D:\CHisMetLabs\laba1\bisec\bin\Debug\net5.0\bisec.exe
+D:\CHisMetLabs\laba1\bisec\bin\Debug\net5.0\bisec.deps.json
+D:\CHisMetLabs\laba1\bisec\bin\Debug\net5.0\bisec.runtimeconfig.json
+D:\CHisMetLabs\laba1\bisec\bin\Debug\net5.0\bisec.runtimeconfig.dev.json
+D:\CHisMetLabs\laba1\bisec\bin\Debug\net5.0\bisec.dll
+D:\CHisMetLabs\laba1\bisec\bin\Debug\net5.0\ref\bisec.dll
+D:\CHisMetLabs\laba1\bisec\bin\Debug\net5.0\bisec.pdb
+D:\CHisMetLabs\laba1\bisec\obj\Debug\net5.0\bisec.csproj.AssemblyReference.cache
+D:\CHisMetLabs\laba1\bisec\obj\Debug\net5.0\bisec.GeneratedMSBuildEditorConfig.editorconfig
+D:\CHisMetLabs\laba1\bisec\obj\Debug\net5.0\bisec.AssemblyInfoInputs.cache
+D:\CHisMetLabs\laba1\bisec\obj\Debug\net5.0\bisec.AssemblyInfo.cs
+D:\CHisMetLabs\laba1\bisec\obj\Debug\net5.0\bisec.csproj.CoreCompileInputs.cache
+D:\CHisMetLabs\laba1\bisec\obj\Debug\net5.0\bisec.dll
+D:\CHisMetLabs\laba1\bisec\obj\Debug\net5.0\ref\bisec.dll
+D:\CHisMetLabs\laba1\bisec\obj\Debug\net5.0\bisec.pdb
+D:\CHisMetLabs\laba1\bisec\obj\Debug\net5.0\bisec.genruntimeconfig.cache

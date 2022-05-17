@@ -1,0 +1,16 @@
+D:\CHisMetLabs\laba1\Sich\bin\Debug\net5.0\Sich.exe
+D:\CHisMetLabs\laba1\Sich\bin\Debug\net5.0\Sich.deps.json
+D:\CHisMetLabs\laba1\Sich\bin\Debug\net5.0\Sich.runtimeconfig.json
+D:\CHisMetLabs\laba1\Sich\bin\Debug\net5.0\Sich.runtimeconfig.dev.json
+D:\CHisMetLabs\laba1\Sich\bin\Debug\net5.0\Sich.dll
+D:\CHisMetLabs\laba1\Sich\bin\Debug\net5.0\ref\Sich.dll
+D:\CHisMetLabs\laba1\Sich\bin\Debug\net5.0\Sich.pdb
+D:\CHisMetLabs\laba1\Sich\obj\Debug\net5.0\Sich.csproj.AssemblyReference.cache
+D:\CHisMetLabs\laba1\Sich\obj\Debug\net5.0\Sich.GeneratedMSBuildEditorConfig.editorconfig
+D:\CHisMetLabs\laba1\Sich\obj\Debug\net5.0\Sich.AssemblyInfoInputs.cache
+D:\CHisMetLabs\laba1\Sich\obj\Debug\net5.0\Sich.AssemblyInfo.cs
+D:\CHisMetLabs\laba1\Sich\obj\Debug\net5.0\Sich.csproj.CoreCompileInputs.cache
+D:\CHisMetLabs\laba1\Sich\obj\Debug\net5.0\Sich.dll
+D:\CHisMetLabs\laba1\Sich\obj\Debug\net5.0\ref\Sich.dll
+D:\CHisMetLabs\laba1\Sich\obj\Debug\net5.0\Sich.pdb
+D:\CHisMetLabs\laba1\Sich\obj\Debug\net5.0\Sich.genruntimeconfig.cache
